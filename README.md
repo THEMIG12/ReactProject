@@ -1,3 +1,19 @@
+# the main project is:
+React Project
+Notes application:
+● An application where people can add notes and remove them on demand.
+● The application must be able to do the following:
+○ Add a new note.
+■ Add a creation date to the note automatically.
+■ Add a title by the user.
+■ Add a body by the user.
+■ Add a reminder (optional).
+○ Remove an existing note.
+○ Change the note color.
+○ Save the data in JSON format inside the local storage of the browser to be able to see the notes after clicking refresh.
+○ Example: Keep app by Google (https://keep.google.com/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,22 +84,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-
-
-the main project is:
-React Project
-Notes application:
-● An application where people can add notes and remove them on demand.
-● The application must be able to do the following:
-○ Add a new note.
-■ Add a creation date to the note automatically.
-■ Add a title by the user.
-■ Add a body by the user.
-■ Add a reminder (optional).
-○ Remove an existing note.
-○ Change the note color.
-○ Save the data in JSON format inside the local storage of the browser to
-be able to see the notes after clicking refresh.
-○ Example: Keep app by Google (https://keep.google.com/)
